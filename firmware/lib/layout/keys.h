@@ -152,6 +152,7 @@ KEYS__DEFAULT(    space,          KEYBOARD__Spacebar                   );
 KEYS__DEFAULT(    tab,            KEYBOARD__Tab                        );
 // ---
 KEYS__DEFAULT(    bkslash,        KEYBOARD__Backslash_Pipe             );
+KEYS__DEFAULT(    mod3,           KEYBOARD__Backslash_Pipe             );  // neo2
 KEYS__DEFAULT(    brktL,          KEYBOARD__LeftBracket_LeftBrace      );
 KEYS__DEFAULT(    brktR,          KEYBOARD__RightBracket_RightBrace    );
 KEYS__DEFAULT(    comma,          KEYBOARD__Comma_LessThan             );
