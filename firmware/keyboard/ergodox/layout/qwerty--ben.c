@@ -59,7 +59,7 @@ shL2kcap,        z,        x,        c,        v,        b,      nop,
                                                        nop,      nop,     home,
                                                         bs,      del,      end,
 // right hand ..... ......... ......... ......... ......... ......... .........
-               nop,        6,        7,        8,        9,        0,     dash,
+               nop,        6,        7,        8,        9,        0,     bs,
              brktL,        y,        u,        i,        o,        p,    quote,
                            h,        j,        k,        l,  semicol,    mod3,
                nop,        n,        m,    comma,   period,    slash, shR2kcap,
